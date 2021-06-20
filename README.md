@@ -1,12 +1,18 @@
-### Hi there 👋
+### Hi!
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=jakub-kozlowicz&show_icons=true&theme=onedark)
+I am student at field of Control Engineering and Robotics at Wroclaw University of Science and Technology.  
+On daily basis I write scripts that automate everyday tasks. In my spare time, I try to develop my robotic skills.
 
-<!--
-**jakub-kozlowicz/jakub-kozlowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Personal web page
+[jakub.kozlowicz.com.pl](https://jakub.kozlowicz.com.pl)
 
-Here are some ideas to get you started:
+### Contact
+You can find my email at footer on the web page.
 
+### My Github stats
+![My Github stats](https://github-readme-stats.vercel.app/api?username=jakub-kozlowicz&show_icons=true&theme=tokyonight)
+
+<!-- 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
