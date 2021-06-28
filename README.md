@@ -1,7 +1,6 @@
 ### Hi!
 
 I am student at field of Control Engineering and Robotics at Wroclaw University of Science and Technology.  
-On daily basis I write scripts that automate everyday tasks. In my spare time, I try to develop my robotic skills.
 
 ### Personal web page
 [jakub.kozlowicz.com.pl](https://jakub.kozlowicz.com.pl)
